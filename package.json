@@ -1,5 +1,5 @@
 {
-  "name": "@gd-com/utils",
+  "name": "@phated/godot-nodejs-utils",
   "version": "3.0.0",
   "description": "Serializer/deserializer utils for godot engine",
   "main": "src/index.js",
@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gd-com/utils.git"
+    "url": "git+https://github.com/phated/godot-nodejs-utils.git"
   },
   "bugs": {
-    "url": "https://github.com/gd-com/utils/issues"
+    "url": "https://github.com/phated/godot-nodejs-utils/issues"
   },
-  "homepage": "https://github.com/gd-com/utils#readme",
+  "homepage": "https://github.com/phated/godot-nodejs-utils#readme",
   "devDependencies": {
     "chai": "3.5.0",
     "mocha": "^5.2.0",
